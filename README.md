@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Xenocrome
-- 👀 I’m interested in Web and iOS App Dev.
-- 🌱 I’m currently learning Full Stack Dev.
 - 📫 How to reach me aymmubarca@gmail.com
 
 <!---
